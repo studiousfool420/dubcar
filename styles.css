@@ -8,6 +8,9 @@ h1 {
 p {
   color: black;
 }
+article {
+    background-color: lightgray;
+}
 aside {
     background-color: lightgray;
 }
