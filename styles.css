@@ -25,3 +25,8 @@ section {
 aside {
     background-color: lightgray;
 }
+nav {
+    background-color:blueviolet;
+    color:white;
+    text-align: center;
+}
