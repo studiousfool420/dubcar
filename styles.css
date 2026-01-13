@@ -1,5 +1,5 @@
 body {
-  background-color: lightgray;
+  background-color: whitesmoke;
 }
 h1 {
   color: darkslateblue;
@@ -7,4 +7,7 @@ h1 {
 }
 p {
   color: black;
+}
+aside {
+    background-color: lightgray;
 }
