@@ -1,0 +1,35 @@
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  color: darkslateblue;
+  text-align: center;
+}
+h2 {
+    color:darkslateblue;
+    text-align: left;
+}
+h3 {
+    color:black;
+    text-align:left;
+}
+p {
+  color: black;
+}
+article {
+    background-color: whitesmoke;
+}
+section {
+    background-color: lightgray;
+}
+aside {
+    background-color: lightgray;
+}
+nav {
+    background-color:blueviolet;
+    color:white;
+    text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+}
